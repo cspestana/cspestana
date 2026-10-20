@@ -6,10 +6,10 @@ Product Designer with 14 years in design (editorial, branding, 3D retail environ
 
 I love designing the experience, and I also like getting my hands dirty so it goes from Figma to production exactly the way it was meant to be.
 
-- 🎨 **Design:** UX/UI, product design, design systems, high-converting landing pages
-- 💻 **Code:** front-end with React and TypeScript, and starting to explore the back-end with Node.js
-- 📈 **Marketing:** paid traffic (Meta Ads and Google Ads) to make those pages deliver results
-- 🌱 **Currently learning:** going deeper into React + TypeScript
+- **Design:** UX/UI, product design, design systems, high-converting landing pages
+- **Code:** front-end with React and TypeScript, and starting to explore the back-end with Node.js
+- **Marketing:** paid traffic (Meta Ads and Google Ads) to make those pages deliver results
+- **Currently learning:** going deeper into React + TypeScript
 
 ---
 
