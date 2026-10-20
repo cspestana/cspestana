@@ -29,7 +29,7 @@ I love designing the experience, and I also like getting my hands dirty so it go
 
 | Project | What it is |
 |---|---|
-| [**Portfolio**](https://cspestana.github.io) | My website, with case studies, PT/EN versions and a custom cursor |
+| [**Portfolio**](https://cspestana.github.io/portfolio-camilla/) | My website, with case studies, PT/EN versions and a custom cursor |
 | **Daniel Noffs** | Landing page + paid traffic campaign for a personal trainer |
 | **Fênix Educação** | UX research and LMS platform migration |
 | **Auth API** | Back-end in Node.js, Express and PostgreSQL with JWT and payment integration |
@@ -45,7 +45,10 @@ I love designing the experience, and I also like getting my hands dirty so it go
 
 ### 📫 Let's talk
 
-<a href="https://cspestana.github.io"><img src="https://img.shields.io/badge/Portfolio-E8547A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+🌐 **Portfolio:** [cspestana.github.io/portfolio-camilla](https://cspestana.github.io/portfolio-camilla/)<br>
+📧 **Email:** [pestanascamilla@gmail.com](mailto:pestanascamilla@gmail.com)
+
+<a href="https://cspestana.github.io/portfolio-camilla/"><img src="https://img.shields.io/badge/Portfolio-E8547A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:pestanascamilla@gmail.com"><img src="https://img.shields.io/badge/Email-2C2E35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8547A&height=100&section=footer" width="100%" />
