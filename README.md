@@ -1,51 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8547A&height=160&section=header&text=Camilla%20Pestana&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%7C%20Design%20Engineer&descAlignY=60&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8547A&height=160&section=header&text=Camilla%20Pestana&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer&descAlignY=60&descSize=16" width="100%" />
 
-### Oi, eu sou a Camilla 👋
+### Hi, I'm Camilla 👋
 
-Product Designer com 14 anos de estrada no design (editorial, branding, ambientes 3D de varejo e UX/UI) e hoje construindo a ponte entre design e código.
+Product Designer with 14 years in design (editorial, branding, 3D retail environments and UX/UI), now building the bridge between design and code.
 
-Gosto de projetar a experiência e também de colocar a mão na massa pra ela sair do Figma e ir pro ar do jeito que foi pensada.
+I love designing the experience, and I also like getting my hands dirty so it goes from Figma to production exactly the way it was meant to be.
 
-- 🎨 **Design:** UX/UI, design de produto, design systems, landing pages de alta conversão
-- 💻 **Código:** front-end com React e TypeScript, e já me aventurando no backend com Node.js
-- 📈 **Marketing:** tráfego pago (Meta Ads e Google Ads) pra fazer as páginas trazerem resultado
-- 🌱 **Aprendendo agora:** React + TypeScript mais a fundo
+- 🎨 **Design:** UX/UI, product design, design systems, high-converting landing pages
+- 💻 **Code:** front-end with React and TypeScript, and starting to explore the back-end with Node.js
+- 📈 **Marketing:** paid traffic (Meta Ads and Google Ads) to make those pages deliver results
+- 🌱 **Currently learning:** going deeper into React + TypeScript
 
 ---
 
-### 🛠️ Ferramentas e tecnologias
+### 🛠️ Tools & technologies
 
 **Design**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=light" /></a>
 
-**Desenvolvimento**
+**Development**
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,git,github,vscode&theme=light" /></a>
 
 ---
 
-### ✨ Projetos em destaque
+### ✨ Featured projects
 
-| Projeto | O que é |
+| Project | What it is |
 |---|---|
-| [**Portfólio**](https://cspestana.github.io) | Meu site, com estudos de caso, versão PT/EN e cursor customizado |
-| **Daniel Noffs** | Landing page + campanha de tráfego pago para personal trainer |
-| **Fênix Educação** | Pesquisa UX e migração de plataforma LMS |
-| **API com autenticação** | Backend em Node.js, Express e PostgreSQL com JWT e integração de pagamentos |
+| [**Portfolio**](https://cspestana.github.io) | My website, with case studies, PT/EN versions and a custom cursor |
+| **Daniel Noffs** | Landing page + paid traffic campaign for a personal trainer |
+| **Fênix Educação** | UX research and LMS platform migration |
+| **Auth API** | Back-end in Node.js, Express and PostgreSQL with JWT and payment integration |
 
 ---
 
-### 📊 Atividade
+### 📊 Activity
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=cspestana&show_icons=true&hide_border=true&title_color=E8547A&icon_color=E8547A&text_color=2C2E35&bg_color=ffffff" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cspestana&layout=compact&hide_border=true&title_color=E8547A&text_color=2C2E35&bg_color=ffffff" />
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Let's talk
 
-<a href="https://cspestana.github.io"><img src="https://img.shields.io/badge/Portfólio-E8547A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://cspestana.github.io"><img src="https://img.shields.io/badge/Portfolio-E8547A?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:pestanascamilla@gmail.com"><img src="https://img.shields.io/badge/Email-2C2E35?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E8547A&height=100&section=footer" width="100%" />
